@@ -14,5 +14,5 @@ using Gradient Dencent, SGD and mini-batch SGD to solve the latent factor proble
 compute the song similarity, and build a similarity network of songs.<br>
 using Topic-Specific PageRank to rank songs.<br>
 #### Project 5: song clustering
-using network in project3 to construct a weighted adjacency matrix.<br>
+using network in project4 to construct a weighted adjacency matrix.<br>
 performing spectral clustering on it, support normalized and un-normalized graph Laplacian.
