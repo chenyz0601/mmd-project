@@ -8,7 +8,7 @@ using Locality Sensitive Hashing and cosin distance.<br>
 #### Project 2: song recommendation （part 1）
 using Latent Factor Models.<br>
 using alternative optimization to find the latent factor of the user-song-count matrix.<br>
-#### Project 2: song recommendation （part 2）
+#### Project 3: song recommendation （part 2）
 using Gradient Dencent, SGD and mini-batch SGD to solve the latent factor problem.<br>
 #### Project 4: song ranking
 compute the song similarity, and build a similarity network of songs.<br>
